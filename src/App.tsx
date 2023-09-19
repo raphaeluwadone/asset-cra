@@ -14,7 +14,7 @@ import RequisitionReturns from "./pages/requisition/RequisitionReturns";
 import LandingPage from "./pages/landingPage/Index";
 import Login from "./pages/login";
 import ForgetPassword from "./pages/ForgetPassword/Index";
-import Register from "./pages/Signup/Index";
+import Register from "./pages/signup/Index";
 import ApprovedFulfilment from "./pages/fulfilment/approved";
 import UnavailableFulfilment from "./pages/fulfilment/unavailable";
 import Organization from "./pages/Organization";
